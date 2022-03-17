@@ -1,12 +1,11 @@
 # qt-examples
 qt-examples
 
-
-# Setup
+## Setup
 `pip install -r requirements`
 
-## Run FadingIndicator example
+## Example: FadingIndicator
+`python -m qtexamples.fadingindicator.fadingindicator`
 
 ![Fading Indicator](_assets/fadingindicator.gif)
 
-`python -m qtexamples.fadingindicator.fadingindicator`
